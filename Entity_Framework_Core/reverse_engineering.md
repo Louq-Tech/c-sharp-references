@@ -1,9 +1,9 @@
 # Reverse engineering the database refers to the process of analyzing an existing database to understand its structure, relationships, constraints, and other attributes.
 
-<span style="color:yellow;">This reference is based on PostgreSQL RDBMS only</span>
+<span style="color:yellow">This reference is based on PostgreSQL RDBMS only</span>
 
 ## Tools needed
-<span style="color:yellow;">Either use PMC or .NET CLI</span>
+<span style="color:yellow">Either use PMC or .NET CLI</span>
 
 ### PMC
 `Install-Package Microsoft.EntityFrameworkCore.Tools`
